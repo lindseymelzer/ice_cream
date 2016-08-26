@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue;
+    max-width: 700px
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Original Surfer', cursive;
+    font-size: 45px;
+}
+
+p {
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 33px;
+    color: white;
+    line-height:1;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: lightpink;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+
+
+
+
